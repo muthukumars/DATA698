@@ -1,0 +1,3 @@
+#### Install packages
+pip install pandas
+pip install sci-kit-learn
