@@ -1,0 +1,28 @@
+data698-C-ABM-LogisticRegression.log 3.0K  - Communicable Disease Acute Bacterial Meningitis Data Set Analysis -Logsitc Regression Output log
+data698-C-ABM-LogisticRegression.py 3.1K - Communicable Disease Acute Bacterial Meningitis Data Set Analysis -Logsitc Regression Python Program
+data698-C-ABM-NaiveBayes.log 6.1K - Communicable Disease Acute Bacterial Meningitis Data Set Analysis - Naive Bayes - output Log
+data698-C-ABM-NaiveBayes.py 3.1K - Communicable Disease Acute Bacterial Meningitis Data Set Analysis - Naive Bayes - Python Program
+data698-C-HCV-ExploreDepthOfTree.log 1.8K - Communicable Disease Hepatitis C Virus - Explore Depth of the Tree of Data set - Log file
+data698-C-HCV-ExploreDepthOfTree.png 36K - Communicable Disease Hepatitis C Virus - Explore Depth of the Tree of Data se - Screen Shot
+data698-C-HCV-ExploreDepthOfTree.py 2.4K - Communicable Disease Hepatitis C Virus - Explore Depth of the Tree of Data set Python Program
+data698-C-HCV-ExploreNumberOfFeatures.log 1.8K - Communicable Disease Hepatitis C Virus - Explore the Number of Features Output Log
+data698-C-HCV-ExploreNumberOfFeatures.png 42K - Communicable Disease Hepatitis C Virus - Explore the Number of Features output Screen shot
+data698-C-HCV-ExploreNumberOfFeatures.py 2.5K - Communicable Disease Hepatitis C Virus - Explore the Number of Features Python program
+data698-C-HCV-ExploreNumberOfTrees.log 1.7K -Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Output Log file
+data698-C-HCV-ExploreNumberOfTrees.png 36K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Screen output
+data698-C-HCV-ExploreNumberOfTrees.py 2.3K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Python Program
+data698-C-HCV-RandomForestClassification.log 1.2K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Classification output log
+data698-C-HCV-RandomForestClassification.png 43K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Classification scree shot
+data698-C-HCV-RandomForestClassification.py 1.6K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Classification python Program
+data698-C-HCV-RandomForestRegression.log 1.2K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Regression log file
+data698-C-HCV-RandomForestRegression.png 30K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Regression screen
+data698-C-HCV-RandomForestRegression.py 1.7K - Communicable Disease Hepatitis C Virus - Explore the Depth of the Tree Random Forest Regression Python program
+data698-NC-Diabetes-OrdinaryLeaseSquareOLS.py 1.4K - Non Communicable disease Diabetes OLS Analysis - Python Program
+data698-NC-Melonama-LogisticRegression.py 2.9K -  Non Communicable disease Melonama Logistic regression Analysis Python Program
+data698-NC-Melonama-NaiveBayes.py 3.0K - Non Communicable disease Melonama - Naive Bayes python program
+output-C-ABM-Gaussian.log 3.0K - Communicable disease Acute Bacteria Meningetis - Naive Bayes - output
+output-C-ABM-LogisticRegression.log 3.0K - Communicable disease Acute Bacteria Meningetis - logistic regress output
+output-NC-Diabetes-OLS.log 8.6K -  Non Communicable disease Diabetes OLS Analysis output log
+output-NC-Melonama-LogisticsRegression.log 2.4K - Non Communicable disease - Melona ma LR output
+output-NC-Melonama-NaiveBayes.log 2.4K - Non Communicable disease Melona Naive Bayes output
+requirements.txt 67B
